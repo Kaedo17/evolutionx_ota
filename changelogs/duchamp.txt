@@ -1,0 +1,17 @@
+Bugs :
+
+- Flickering bug ( see Telegram/XDA for more info )
+- WPA3 Wifi not working
+- Tell me !
+
+Notes : 
+
+- First Build of EvolutionX on duchamp
+- No OTA on this ROM
+
+Credit : 
+
+- Thanks to jow4h
+- Thanks to onelots
+- Thanks to EovlutionX Team
+- Thanks to Rio and others for device trees !
