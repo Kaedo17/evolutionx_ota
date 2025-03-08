@@ -1,3 +1,33 @@
+03-08-2025 (mm/dd/yyyy) ----
+Changelogs : 
+
+- Add OTA Features
+- Add Dobly support
+- Add Engineers MTK
+- WPA3 Working
+- Add Thermal Profile and HTSR
+
+Bugs :
+
+- Flickering bugs in game ( see Telegram/XDA for more info )
+- Tell me !
+
+Credit : 
+
+- Thanks to jow4h
+- Thanks to onelots
+- Thanks to Luxured for Dolby and WPA3 Patch 
+- Thanks to EvolutionX Team
+- Thanks to Rio and others for device trees !
+
+Notes : 
+
+- For people who are on Testing builds just wait for notification from updater app
+- Switching from Rio Device tree to Zenin 
+- Dirty Flash work
+
+
+02-08-2025 (mm/dd/yyyy) ----
 Bugs :
 
 - Flickering bug ( see Telegram/XDA for more info )
