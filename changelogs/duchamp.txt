@@ -1,3 +1,31 @@
+04-06-2025 (mm/dd/yyyy) ----
+Changelogs :
+
+- Add MIUICamera
+- Update to 10.3.1
+- Update blobs to latest Stable Beta
+- WPA2/WPA3 Patch
+
+Bugs :
+
+- Flickering bug in general
+- Flickering bug in game ( see Telegram/XDA for more info )
+- Tell me !
+
+Credit :
+
+- Thanks to onelots
+- Thanks to Luxured for Dolby and WPA3 Patch
+- Thanks to EvolutionX Team
+- Thanks to Sai for patch for MIUICamera
+- Thanks to Rio and others for device trees !
+
+Special Note :
+
+- EvolutionX 10.4 will not be maintained by me anymore, there is a bug who make Camera not working on QPR2, for the moment nobody of the team
+of EvolutionX reply to me, so EvolutionX 10.4/QPR2 will be suspended for duchamp, I will continue maintaining 10.3.1 with newest patch for duchamp.
+But that's all, I will continue to try in private 10.4, but don't have too much hope
+
 03-08-2025 (mm/dd/yyyy) ----
 Changelogs : 
 
