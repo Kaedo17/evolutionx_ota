@@ -2,24 +2,24 @@
   "response": [
     {
       "maintainer": "MAG",
-      "oem": "Xiaomi",
-      "device": "Poco X6 Pro / Redmi K70E",
-      "filename": "EvolutionX-15.0-20250306-duchamp-v10.3.zip",
-      "download": "https://rom.magcloud.fr/api/raw/?path=/Stable/EvolutionX/10.3/03-08-2025/EvolutionX-15.0-20250306-duchamp-10.3-Unofficial.zip",
-      "timestamp":  1741240800,
-      "md5": "31fc04c189bff621614f0e02ab1511c8",
-      "sha256": "8126d1daf3107bcca0144cc479137f2d5ab68dbac85e7b3e705d5def955c9673",
-      "size": 3102893617,
-      "version": "10.3",
+      "oem": "Poco X6 Pro / Redmi K70E",
+      "device": "duchamp",
+      "filename": "EvolutionX-15.0-20250406-duchamp-10.3.1-Unofficial.zip",
+      "download": "https://rom.magcloud.fr/api/raw/?path=/Stable/EvolutionX/10.3.1/04-06-2025/EvolutionX-15.0-20250406-duchamp-10.3.1-Unofficial.zip",
+      "timestamp": 1743968374,
+      "md5": "b675d60464f60d9e15dd53fa11b928fd",
+      "sha256": "c3efe21020a14ad23853562c5acb8ab3414f764888510cac59653385861c6929",
+      "size": 3399711840,
+      "version": "10.3.1",
       "buildtype": "userdebug",
-      "forum": "https://xdaforums.com/t/rom-15-0-0_r17-unofficial-evolution-x-10-3-02-22-25.4719891/", 
-      "firmware": "https://github.com/MAG-45/kernel_xiaomi_duchamp",
+      "forum": "https://xdaforums.com/t/rom-15-0-0_r17-unofficial-evolution-x-10-3-02-22-25.4719891",
+      "firmware": "https://github.com/MAG-45/kernel_xiaomi_mt6897",
       "paypal": "https://buymeacoffee.com/mag_",
       "telegram": "https://t.me/magromchat",
       "github": "MAG-45",
       "initial_installation_images": [
         "vendor_boot",
-        "boot"
+        "boot",
       ]
     }
   ]
