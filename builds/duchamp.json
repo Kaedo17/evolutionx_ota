@@ -6,10 +6,10 @@
       "device": "duchamp",
       "filename": "EvolutionX-15.0-20250805-duchamp-10.7-Unofficial.zip",
       "download": "https://sourceforge.net/projects/evox-duchamp-releases/files/releases/EvolutionX-15.0-20250805-duchamp-10.7-Unofficial.zip/download",
-      "timestamp": 1754453841,
-      "md5": "a18617016d451596937e6e8da049fe4c",
-      "sha256": "fafa19bc157a84bc9e0d0fb41a31473d5df01003ec110825ad00d52a3449e9d6",
-      "size": 3353751448,
+      "timestamp": 1754482687,
+      "md5": "56919ab0863ca49712d5ee12e5cbda06",
+      "sha256": "065438feae5fb9086a452a3a6978d83cda908d5aa1f5199314fa19257c53439b",
+      "size": 3353752080,
       "version": "10.7",
       "buildtype": "userdebug",
       "forum": "https://t.me/jikembuh/36",
@@ -19,7 +19,7 @@
       "github": "Kaedo17",
       "initial_installation_images": [
         "vendor_boot",
-        "boot",
+        "boot"
       ]
     }
   ]
