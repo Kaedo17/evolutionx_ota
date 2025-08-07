@@ -6,7 +6,7 @@ Changelogs 08-5-2025:
 • Sofod for fpc
 • Minimum + peak refresh rate option
 • Nuked mi camera 
-• Dolby, Nuked more viper
-• High touch polling rate
-• Per app refresh rate
+• Dolby, Nuked viper
+• High touch polling rate (not working yet)
+• Per app refresh rate (not working yet)
 • Nuked thermal profiles
